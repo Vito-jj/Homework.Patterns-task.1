@@ -22,9 +22,9 @@ public class TestClass {
     void testTransferAppointmentDate() {
 
         DataGenerator.UserInfo validUser = DataGenerator.Registration.generateUser("ru");
-        int daysBeforeFirstMeeting = 5;
+        int daysBeforeFirstMeeting = 3;
         String firstMeetingDate = DataGenerator.generateDate(daysBeforeFirstMeeting);
-        int daysBeforeSecondMeeting = 6;
+        int daysBeforeSecondMeeting = 7;
         String secondMeetingDate = DataGenerator.generateDate(daysBeforeSecondMeeting);
 
         $("[data-test-id=city] input").setValue(validUser.getCity());
