@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef251a13-e1a5-4df4-98c9-e49da02cc4a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/paterns/data/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/paterns/data/DataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/paterns/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/paterns/test/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +56,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/HP/IdeaProjects/Homework2.3-task1/src/test/java/ru/netology/paterns",
-    "last_opened_file_path": "C:/Users/HP/IdeaProjects/Homework2.3-task1/artifacts",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/HP/IdeaProjects/Homework2.3-task1/src/test/java/ru/netology/paterns&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/Homework2.3-task1/artifacts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.netology.paterns.data" />
@@ -69,7 +72,7 @@
       <recent name="C:\Users\HP\IdeaProjects\Homework2.3-task1\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TestClass">
+  <component name="RunManager" selected="Gradle.TestClass.testTransferAppointmentDate">
     <configuration name="TestClass" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -118,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.TestClass" />
         <item itemvalue="Gradle.TestClass.testTransferAppointmentDate" />
+        <item itemvalue="Gradle.TestClass" />
       </list>
     </recent_temporary>
   </component>

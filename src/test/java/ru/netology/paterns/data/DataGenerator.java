@@ -17,13 +17,13 @@ public class DataGenerator {
     }
 
     public static String generateCity() {
-        var cities = new String[]{"Санкт-Петербург", "Москва", "Ростов-на-Дону", "Сочи", "Калининград"};
+        var cities = new String[]{"Санкт-Петербург", "Москва", "Ростов-на-Дону", "Ставрополь", "Калининград", "Красноярск"};
         return cities[new Random().nextInt(cities.length)];
     }
 
     public static String generateName(String locale) {
         var faker = new Faker(new Locale(locale));
-        return faker.name().lastName() + "" + faker.name().firstName();
+        return faker.name().lastName() + " " + faker.name().firstName();
     }
 
     public static String generatePhone(String locale) {
